@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd year student at Epitech Toulouse<br>I'm a Full-Stack (JS) developer<br>
+I'm a 5rd year student at Epitech<br>I'm a Full-Stack (JS) developer<br>
 
 
 ## 🌐 Socials:
