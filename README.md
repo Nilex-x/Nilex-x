@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=250&section=header&text=Nicolas%20Moreau&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Co-founder%20%40%20Lexya&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=220&section=header&text=Nicolas%20Moreau&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Co-founder%20%40%20Lexya&descAlignY=52&descSize=18" width="100%"/>
 
 
 <a href="https://linkedin.com/in/moreau-nicolas-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8D58BF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Co-founder+%40+Lexya;Co-fondateur+de+Lexya;Full-Stack+Developer+(JS%2FTS);D%C3%A9veloppeur+Full-Stack+(JS%2FTS);Epitech+Graduate;Dipl%C3%B4m%C3%A9+d%27Epitech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1000&pause=1000&color=8D58BF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Co-founder+%40+Lexya;Co-fondateur+de+Lexya;Full-Stack+Developer+(JS%2FTS);D%C3%A9veloppeur+Full-Stack+(JS%2FTS);Epitech+Graduate;Dipl%C3%B4m%C3%A9+d%27Epitech" alt="Typing SVG" />
 </a>
 
-
-<br/>
-<br/>
 
 </div>
 
