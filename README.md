@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5BBA,100:8D58BF&height=200&section=header&text=Nicolas%20Moreau&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Co-founder%20%40%20Lexya&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/moreau-nicolas">
+<a href="https://linkedin.com/in/moreau-nicolas-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8D58BF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Developer+(JS%2FTS);D%C3%A9veloppeur+Full-Stack+(JS%2FTS);Co-founder+%40+Lexya;Co-fondateur+de+Lexya;Epitech+Graduate;Dipl%C3%B4m%C3%A9+d%27Epitech" alt="Typing SVG" />
 </a>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moreau-nicolas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moreau-nicolas-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.moreau46000@gmail.com)
 [![Lexya](https://img.shields.io/badge/Lexya-6D5BBA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lexya.fr)
 
